@@ -2,7 +2,7 @@
 Study Record(Notion) : https://ddun-ddun-study.notion.site/c4260e19d806475096a22031d0616190?v=6fc15f504ef04b32bdcffab7c1e2524e
 
 #### 알고리즘 스터디 진행 계획 📅
-BOJ - 단계별로 풀어보기 [주 1회]
+BOJ - 단계별로 풀어보기 [주 1회]   
 Programmers - WeeklyChallenge [주 1회]
 복습 [주 1회] 
 
@@ -15,7 +15,7 @@ Programmers - WeeklyChallenge [주 1회]
 - 이진 검색 트리
 - 딕셔너리
 - 해시
-- **DFS / BFS** [진행중]
+- **DFS / BFS** [현재 진행중]
 - 정렬
 - 백트래킹
 - 분할정복
