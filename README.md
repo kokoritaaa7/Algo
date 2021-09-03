@@ -3,7 +3,7 @@ Study Record(Notion) : https://ddun-ddun-study.notion.site/c4260e19d806475096a22
 
 #### 알고리즘 스터디 진행 계획 📅
 BOJ - 단계별로 풀어보기 [주 1회]   
-Programmers - WeeklyChallenge [주 1회]
+Programmers - WeeklyChallenge [주 1회]   
 복습 [주 1회] 
 
 #### 알고리즘 뿌실 목록 👊
