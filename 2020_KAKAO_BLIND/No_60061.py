@@ -1,6 +1,6 @@
 '''
 프로그래머스 2020 KAKAO BLIND
-https://programmers.co.kr/learn/courses/30/lessons/60059
+https://programmers.co.kr/learn/courses/30/lessons/60061
 기둥과 보 설치
 
 2021.09.10
