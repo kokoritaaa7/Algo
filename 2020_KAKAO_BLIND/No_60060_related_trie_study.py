@@ -1,6 +1,6 @@
 '''
 프로그래머스 2020 KAKAO BLIND
-https://programmers.co.kr/learn/courses/30/lessons/60059
+https://programmers.co.kr/learn/courses/30/lessons/60060
 가사 검색에서 사용된 Trie 자료구조
 
 2021.09.07
